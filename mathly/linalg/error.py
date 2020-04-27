@@ -8,3 +8,7 @@ class MatrixError(BaseError):
 
 class VectorError(BaseError):
     pass
+
+def errorRaisor(err,toe): // type of err = toe
+    pass
+    
